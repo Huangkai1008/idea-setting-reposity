@@ -22,9 +22,13 @@
           <option name="url" value="git@github.com:Huangkai1008/blog-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/huanghuang927/Qia.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Huanghuang\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\GoProject\src" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
