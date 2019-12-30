@@ -42,9 +42,13 @@
           <option name="url" value="git@github.com:Huangkai1008/ts-guide.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Huangkai1008/go_tour.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\GoProject\src" />
+    <option name="cloneParentDir" value="E:\" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
