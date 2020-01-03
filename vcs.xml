@@ -46,6 +46,10 @@
           <option name="url" value="git@github.com:Huangkai1008/go_tour.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AcepcsMa/gin-photo-gallery-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
