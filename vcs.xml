@@ -70,9 +70,13 @@
           <option name="url" value="https://gitee.com/huanghuang927/parcel-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/jazzme/ddBuy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\" />
+    <option name="cloneParentDir" value="D:\" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
