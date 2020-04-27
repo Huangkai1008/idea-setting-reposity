@@ -82,6 +82,10 @@
           <option name="url" value="https://gitee.com/huanghuang927/parcel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/qianzhaoy/vant--mobile-mall.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
