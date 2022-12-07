@@ -134,9 +134,13 @@
           <option name="url" value="git@git.ikasinfo.com:aimp/backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/Huangkai1008/Algorithms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workdir\aimp" />
+    <option name="cloneParentDir" value="D:\workdir" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
